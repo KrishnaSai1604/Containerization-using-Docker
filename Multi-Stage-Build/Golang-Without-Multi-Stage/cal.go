@@ -27,7 +27,7 @@ func calculate(left, right int, operator string) (int, error) {
 }
 
 func main() {
-	fmt.Println("Hi Abhishek.Veeramalla, I am a calculator app ....")
+	fmt.Println("Hi KrishnaSai, I am a calculator app ....")
 
 	for {
 		// Read input from the user
